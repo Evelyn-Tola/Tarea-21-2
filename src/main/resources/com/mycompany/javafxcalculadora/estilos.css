@@ -1,0 +1,21 @@
+.root {
+    -fx-background-color: turquoise;
+}
+.text {
+    -fx-font-family: "Times New Roman";
+    -fx-font-size: 20px;
+    -fx-text-fill: #ffffff;
+}
+.button {
+    -fx-background-color: #ffffff;
+    -fx-text-fill: #1e90ff;
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
+    -fx-border-radius: 10px;
+    -fx-background-radius: 10px;
+}
+
+.button:hover {
+    -fx-background-color: #1e90ff;
+    -fx-text-fill: #ffffff;
+}
